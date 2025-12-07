@@ -8,6 +8,10 @@
 
 **Student:** Amirhusen S Shaikh
 
+**Member:** Ayush Navadiya
+
+**Due date:** 7th December 2025
+
 **Overview**
 
 This repository contains all artifacts and documentation for the pentesting lab conducted against the OWASP Juice Shop application. The lab demonstrates a **JWT privilege escalation exploit** and provides mitigation strategies to secure the application.
