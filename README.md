@@ -1,4 +1,4 @@
-# Mega-Hacking-Project---Amir-Shaikh
+# Mega-Hacking-Project---Amir-Shaikh and Ayush
 
 **Project: OWASP Juice Shop Pentesting Lab**
 
@@ -8,7 +8,9 @@
 
 **Student:** Amirhusen S Shaikh
 
-**Member:** Ayush Navadiya
+**Group Member:** Ayush Navadiya
+
+**Github link Ayush:** https://github.com/Ayush-Navadiya/Mega-Hacking-Project-Ayush-Amir
 
 **Due date:** 7th December 2025
 
